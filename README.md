@@ -1,4 +1,4 @@
-# prj2013
+# prj2023
 !pip install easyocr
 !pip install imutils
 
